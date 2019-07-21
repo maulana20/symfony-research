@@ -1,0 +1,6 @@
+//************* symfony 4.2.4 ****************//
+[2019-03-28 20:51:00] php bin/console server:run
+//************ twig template *****************//
+[2019-07-21 14:49:00] composer require symfony/twig-bundle
+[2019-07-21 14:49:00] composer require profiler
+[2019-07-21 14:49:00] php bin\console debug:router
